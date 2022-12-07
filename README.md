@@ -6,7 +6,9 @@ The dataset is downloaded from [Kaggle](https://www.kaggle.com/datasets/vjchoudh
 - The purchased column is added  
 
 <br>
-The purchased column is added according to the given conditions 
+
+The purchased column is added according to the given conditions :
+
 - if the Age is more than 22
 - if the Annual Income is more than 25
 - if the Spending Score is more than 30
